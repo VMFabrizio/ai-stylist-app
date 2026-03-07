@@ -1,8 +1,6 @@
-"use client";
-
-import clsx from "clsx";
+"import clsx from "clsx";
 import "./globals.css";
-import { QuizProvider } from "../context/QuizContext";
+import Providers from "../components/Providers";
 
 export const metadata = {
   title: "AI Stylist",
@@ -17,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={clsx("min-h-screen bg-slate-950 text-white")}>
-        <QuizProvider>{children}</QuizProvider>
+        <Providers>{children}</Providers>
       </body>
     </html>
   );
