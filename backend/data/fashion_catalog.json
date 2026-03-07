@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "item_001",
+    "item_name": "Minimalist Shift Blazer 1",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/200",
+    "brand": "Label Minimalist",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-1"
+  },
+  {
+    "id": "item_002",
+    "item_name": "Streetwear Cropped Tee 2",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/201",
+    "brand": "Label Streetwear",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-2"
+  },
+  {
+    "id": "item_003",
+    "item_name": "Vintage Wide Leg Pant 3",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/202",
+    "brand": "Label Vintage",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-3"
+  },
+  {
+    "id": "item_004",
+    "item_name": "Luxury Tailored Coat 4",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/203",
+    "brand": "Label Luxury",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-4"
+  },
+  {
+    "id": "item_005",
+    "item_name": "Sporty High Top Sneaker 5",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/204",
+    "brand": "Label Sporty",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-5"
+  },
+  {
+    "id": "item_006",
+    "item_name": "Casual Pleated Skirt 6",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/205",
+    "brand": "Label Casual",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-6"
+  },
+  {
+    "id": "item_007",
+    "item_name": "Edgy Structured Bag 7",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/206",
+    "brand": "Label Edgy",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/edgy-structured-bag-7"
+  },
+  {
+    "id": "item_008",
+    "item_name": "Feminine Sheer Shirt 8",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/207",
+    "brand": "Label Feminine",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-8"
+  },
+  {
+    "id": "item_009",
+    "item_name": "Workwear Harness Belt 9",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/208",
+    "brand": "Label Workwear",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/workwear-harness-belt-9"
+  },
+  {
+    "id": "item_010",
+    "item_name": "Avant-Garde Hooded Jacket 10",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/209",
+    "brand": "Label Avant-Garde",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-10"
+  },
+  {
+    "id": "item_011",
+    "item_name": "Minimalist Shift Blazer 11",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/210",
+    "brand": "Label Minimalist",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-11"
+  },
+  {
+    "id": "item_012",
+    "item_name": "Streetwear Cropped Tee 12",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/211",
+    "brand": "Label Streetwear",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-12"
+  },
+  {
+    "id": "item_013",
+    "item_name": "Vintage Wide Leg Pant 13",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/212",
+    "brand": "Label Vintage",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-13"
+  },
+  {
+    "id": "item_014",
+    "item_name": "Luxury Tailored Coat 14",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/213",
+    "brand": "Label Luxury",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-14"
+  },
+  {
+    "id": "item_015",
+    "item_name": "Sporty High Top Sneaker 15",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/214",
+    "brand": "Label Sporty",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-15"
+  },
+  {
+    "id": "item_016",
+    "item_name": "Casual Pleated Skirt 16",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/215",
+    "brand": "Label Casual",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-16"
+  },
+  {
+    "id": "item_017",
+    "item_name": "Edgy Structured Bag 17",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/216",
+    "brand": "Label Edgy",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/edgy-structured-bag-17"
+  },
+  {
+    "id": "item_018",
+    "item_name": "Feminine Sheer Shirt 18",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/217",
+    "brand": "Label Feminine",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-18"
+  },
+  {
+    "id": "item_019",
+    "item_name": "Workwear Harness Belt 19",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/218",
+    "brand": "Label Workwear",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/workwear-harness-belt-19"
+  },
+  {
+    "id": "item_020",
+    "item_name": "Avant-Garde Hooded Jacket 20",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/219",
+    "brand": "Label Avant-Garde",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-20"
+  },
+  {
+    "id": "item_021",
+    "item_name": "Minimalist Shift Blazer 21",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/220",
+    "brand": "Label Minimalist",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-21"
+  },
+  {
+    "id": "item_022",
+    "item_name": "Streetwear Cropped Tee 22",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/221",
+    "brand": "Label Streetwear",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-22"
+  },
+  {
+    "id": "item_023",
+    "item_name": "Vintage Wide Leg Pant 23",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/222",
+    "brand": "Label Vintage",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-23"
+  },
+  {
+    "id": "item_024",
+    "item_name": "Luxury Tailored Coat 24",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/223",
+    "brand": "Label Luxury",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-24"
+  },
+  {
+    "id": "item_025",
+    "item_name": "Sporty High Top Sneaker 25",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/224",
+    "brand": "Label Sporty",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-25"
+  },
+  {
+    "id": "item_026",
+    "item_name": "Casual Pleated Skirt 26",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/225",
+    "brand": "Label Casual",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-26"
+  },
+  {
+    "id": "item_027",
+    "item_name": "Edgy Structured Bag 27",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/226",
+    "brand": "Label Edgy",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/edgy-structured-bag-27"
+  },
+  {
+    "id": "item_028",
+    "item_name": "Feminine Sheer Shirt 28",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/227",
+    "brand": "Label Feminine",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-28"
+  },
+  {
+    "id": "item_029",
+    "item_name": "Workwear Harness Belt 29",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/228",
+    "brand": "Label Workwear",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/workwear-harness-belt-29"
+  },
+  {
+    "id": "item_030",
+    "item_name": "Avant-Garde Hooded Jacket 30",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/229",
+    "brand": "Label Avant-Garde",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-30"
+  },
+  {
+    "id": "item_031",
+    "item_name": "Minimalist Shift Blazer 31",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/230",
+    "brand": "Label Minimalist",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-31"
+  },
+  {
+    "id": "item_032",
+    "item_name": "Streetwear Cropped Tee 32",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/231",
+    "brand": "Label Streetwear",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-32"
+  },
+  {
+    "id": "item_033",
+    "item_name": "Vintage Wide Leg Pant 33",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/232",
+    "brand": "Label Vintage",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-33"
+  },
+  {
+    "id": "item_034",
+    "item_name": "Luxury Tailored Coat 34",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/233",
+    "brand": "Label Luxury",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-34"
+  },
+  {
+    "id": "item_035",
+    "item_name": "Sporty High Top Sneaker 35",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/234",
+    "brand": "Label Sporty",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-35"
+  },
+  {
+    "id": "item_036",
+    "item_name": "Casual Pleated Skirt 36",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/235",
+    "brand": "Label Casual",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-36"
+  },
+  {
+    "id": "item_037",
+    "item_name": "Edgy Structured Bag 37",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/236",
+    "brand": "Label Edgy",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/edgy-structured-bag-37"
+  },
+  {
+    "id": "item_038",
+    "item_name": "Feminine Sheer Shirt 38",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/237",
+    "brand": "Label Feminine",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-38"
+  },
+  {
+    "id": "item_039",
+    "item_name": "Workwear Harness Belt 39",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/238",
+    "brand": "Label Workwear",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/workwear-harness-belt-39"
+  },
+  {
+    "id": "item_040",
+    "item_name": "Avant-Garde Hooded Jacket 40",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/239",
+    "brand": "Label Avant-Garde",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-40"
+  },
+  {
+    "id": "item_041",
+    "item_name": "Minimalist Shift Blazer 41",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/240",
+    "brand": "Label Minimalist",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-41"
+  },
+  {
+    "id": "item_042",
+    "item_name": "Streetwear Cropped Tee 42",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/241",
+    "brand": "Label Streetwear",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-42"
+  },
+  {
+    "id": "item_043",
+    "item_name": "Vintage Wide Leg Pant 43",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/242",
+    "brand": "Label Vintage",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-43"
+  },
+  {
+    "id": "item_044",
+    "item_name": "Luxury Tailored Coat 44",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/243",
+    "brand": "Label Luxury",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-44"
+  },
+  {
+    "id": "item_045",
+    "item_name": "Sporty High Top Sneaker 45",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/244",
+    "brand": "Label Sporty",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-45"
+  },
+  {
+    "id": "item_046",
+    "item_name": "Casual Pleated Skirt 46",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/245",
+    "brand": "Label Casual",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-46"
+  },
+  {
+    "id": "item_047",
+    "item_name": "Edgy Structured Bag 47",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/246",
+    "brand": "Label Edgy",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/edgy-structured-bag-47"
+  },
+  {
+    "id": "item_048",
+    "item_name": "Feminine Sheer Shirt 48",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/247",
+    "brand": "Label Feminine",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-48"
+  },
+  {
+    "id": "item_049",
+    "item_name": "Workwear Harness Belt 49",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/248",
+    "brand": "Label Workwear",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/workwear-harness-belt-49"
+  },
+  {
+    "id": "item_050",
+    "item_name": "Avant-Garde Hooded Jacket 50",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/249",
+    "brand": "Label Avant-Garde",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-50"
+  },
+  {
+    "id": "item_051",
+    "item_name": "Minimalist Shift Blazer 51",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/250",
+    "brand": "Label Minimalist",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-51"
+  },
+  {
+    "id": "item_052",
+    "item_name": "Streetwear Cropped Tee 52",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/251",
+    "brand": "Label Streetwear",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-52"
+  },
+  {
+    "id": "item_053",
+    "item_name": "Vintage Wide Leg Pant 53",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/252",
+    "brand": "Label Vintage",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-53"
+  },
+  {
+    "id": "item_054",
+    "item_name": "Luxury Tailored Coat 54",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/253",
+    "brand": "Label Luxury",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-54"
+  },
+  {
+    "id": "item_055",
+    "item_name": "Sporty High Top Sneaker 55",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/254",
+    "brand": "Label Sporty",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-55"
+  },
+  {
+    "id": "item_056",
+    "item_name": "Casual Pleated Skirt 56",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/255",
+    "brand": "Label Casual",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-56"
+  },
+  {
+    "id": "item_057",
+    "item_name": "Edgy Structured Bag 57",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/256",
+    "brand": "Label Edgy",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/edgy-structured-bag-57"
+  },
+  {
+    "id": "item_058",
+    "item_name": "Feminine Sheer Shirt 58",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/257",
+    "brand": "Label Feminine",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-58"
+  },
+  {
+    "id": "item_059",
+    "item_name": "Workwear Harness Belt 59",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/258",
+    "brand": "Label Workwear",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/workwear-harness-belt-59"
+  },
+  {
+    "id": "item_060",
+    "item_name": "Avant-Garde Hooded Jacket 60",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/259",
+    "brand": "Label Avant-Garde",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-60"
+  },
+  {
+    "id": "item_061",
+    "item_name": "Minimalist Shift Blazer 61",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/260",
+    "brand": "Label Minimalist",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-61"
+  },
+  {
+    "id": "item_062",
+    "item_name": "Streetwear Cropped Tee 62",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/261",
+    "brand": "Label Streetwear",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-62"
+  },
+  {
+    "id": "item_063",
+    "item_name": "Vintage Wide Leg Pant 63",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/262",
+    "brand": "Label Vintage",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-63"
+  },
+  {
+    "id": "item_064",
+    "item_name": "Luxury Tailored Coat 64",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/263",
+    "brand": "Label Luxury",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-64"
+  },
+  {
+    "id": "item_065",
+    "item_name": "Sporty High Top Sneaker 65",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/264",
+    "brand": "Label Sporty",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-65"
+  },
+  {
+    "id": "item_066",
+    "item_name": "Casual Pleated Skirt 66",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/265",
+    "brand": "Label Casual",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-66"
+  },
+  {
+    "id": "item_067",
+    "item_name": "Edgy Structured Bag 67",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/266",
+    "brand": "Label Edgy",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/edgy-structured-bag-67"
+  },
+  {
+    "id": "item_068",
+    "item_name": "Feminine Sheer Shirt 68",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/267",
+    "brand": "Label Feminine",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-68"
+  },
+  {
+    "id": "item_069",
+    "item_name": "Workwear Harness Belt 69",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/268",
+    "brand": "Label Workwear",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/workwear-harness-belt-69"
+  },
+  {
+    "id": "item_070",
+    "item_name": "Avant-Garde Hooded Jacket 70",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/269",
+    "brand": "Label Avant-Garde",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-70"
+  },
+  {
+    "id": "item_071",
+    "item_name": "Minimalist Shift Blazer 71",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/270",
+    "brand": "Label Minimalist",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-71"
+  },
+  {
+    "id": "item_072",
+    "item_name": "Streetwear Cropped Tee 72",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/271",
+    "brand": "Label Streetwear",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-72"
+  },
+  {
+    "id": "item_073",
+    "item_name": "Vintage Wide Leg Pant 73",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/272",
+    "brand": "Label Vintage",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-73"
+  },
+  {
+    "id": "item_074",
+    "item_name": "Luxury Tailored Coat 74",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/273",
+    "brand": "Label Luxury",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-74"
+  },
+  {
+    "id": "item_075",
+    "item_name": "Sporty High Top Sneaker 75",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/274",
+    "brand": "Label Sporty",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-75"
+  },
+  {
+    "id": "item_076",
+    "item_name": "Casual Pleated Skirt 76",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/275",
+    "brand": "Label Casual",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-76"
+  },
+  {
+    "id": "item_077",
+    "item_name": "Edgy Structured Bag 77",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/276",
+    "brand": "Label Edgy",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/edgy-structured-bag-77"
+  },
+  {
+    "id": "item_078",
+    "item_name": "Feminine Sheer Shirt 78",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/277",
+    "brand": "Label Feminine",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-78"
+  },
+  {
+    "id": "item_079",
+    "item_name": "Workwear Harness Belt 79",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/278",
+    "brand": "Label Workwear",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/workwear-harness-belt-79"
+  },
+  {
+    "id": "item_080",
+    "item_name": "Avant-Garde Hooded Jacket 80",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/279",
+    "brand": "Label Avant-Garde",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-80"
+  },
+  {
+    "id": "item_081",
+    "item_name": "Minimalist Shift Blazer 81",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/280",
+    "brand": "Label Minimalist",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-81"
+  },
+  {
+    "id": "item_082",
+    "item_name": "Streetwear Cropped Tee 82",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/281",
+    "brand": "Label Streetwear",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-82"
+  },
+  {
+    "id": "item_083",
+    "item_name": "Vintage Wide Leg Pant 83",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/282",
+    "brand": "Label Vintage",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-83"
+  },
+  {
+    "id": "item_084",
+    "item_name": "Luxury Tailored Coat 84",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/283",
+    "brand": "Label Luxury",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-84"
+  },
+  {
+    "id": "item_085",
+    "item_name": "Sporty High Top Sneaker 85",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/284",
+    "brand": "Label Sporty",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-85"
+  },
+  {
+    "id": "item_086",
+    "item_name": "Casual Pleated Skirt 86",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/285",
+    "brand": "Label Casual",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-86"
+  },
+  {
+    "id": "item_087",
+    "item_name": "Edgy Structured Bag 87",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/286",
+    "brand": "Label Edgy",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/edgy-structured-bag-87"
+  },
+  {
+    "id": "item_088",
+    "item_name": "Feminine Sheer Shirt 88",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/287",
+    "brand": "Label Feminine",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-88"
+  },
+  {
+    "id": "item_089",
+    "item_name": "Workwear Harness Belt 89",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/288",
+    "brand": "Label Workwear",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/workwear-harness-belt-89"
+  },
+  {
+    "id": "item_090",
+    "item_name": "Avant-Garde Hooded Jacket 90",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/289",
+    "brand": "Label Avant-Garde",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-90"
+  },
+  {
+    "id": "item_091",
+    "item_name": "Minimalist Shift Blazer 91",
+    "category": "top",
+    "color": "cream",
+    "style_tags": [
+      "minimalist",
+      "clean",
+      "neutral"
+    ],
+    "description": "A cream top with minimalist cues, featuring neutral details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/290",
+    "brand": "Label Minimalist",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/minimalist-shift-blazer-91"
+  },
+  {
+    "id": "item_092",
+    "item_name": "Streetwear Cropped Tee 92",
+    "category": "bottom",
+    "color": "olive",
+    "style_tags": [
+      "streetwear",
+      "bold",
+      "urban"
+    ],
+    "description": "A olive bottom with streetwear cues, featuring urban details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/291",
+    "brand": "Label Streetwear",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/streetwear-cropped-tee-92"
+  },
+  {
+    "id": "item_093",
+    "item_name": "Vintage Wide Leg Pant 93",
+    "category": "outerwear",
+    "color": "red",
+    "style_tags": [
+      "vintage",
+      "warm",
+      "retro"
+    ],
+    "description": "A red outerwear with vintage cues, featuring retro details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/292",
+    "brand": "Label Vintage",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/vintage-wide-leg-pant-93"
+  },
+  {
+    "id": "item_094",
+    "item_name": "Luxury Tailored Coat 94",
+    "category": "shoe",
+    "color": "pink",
+    "style_tags": [
+      "luxury",
+      "polished",
+      "gold"
+    ],
+    "description": "A pink shoe with luxury cues, featuring gold details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/293",
+    "brand": "Label Luxury",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/luxury-tailored-coat-94"
+  },
+  {
+    "id": "item_095",
+    "item_name": "Sporty High Top Sneaker 95",
+    "category": "accessory",
+    "color": "slate",
+    "style_tags": [
+      "sporty",
+      "dynamic",
+      "bright"
+    ],
+    "description": "A slate accessory with sporty cues, featuring bright details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/294",
+    "brand": "Label Sporty",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/sporty-high-top-sneaker-95"
+  },
+  {
+    "id": "item_096",
+    "item_name": "Casual Pleated Skirt 96",
+    "category": "top",
+    "color": "cognac",
+    "style_tags": [
+      "casual",
+      "comfort",
+      "earth"
+    ],
+    "description": "A cognac top with casual cues, featuring earth details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/295",
+    "brand": "Label Casual",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/casual-pleated-skirt-96"
+  },
+  {
+    "id": "item_097",
+    "item_name": "Edgy Structured Bag 97",
+    "category": "bottom",
+    "color": "metallic",
+    "style_tags": [
+      "edgy",
+      "dark",
+      "contrast"
+    ],
+    "description": "A metallic bottom with edgy cues, featuring contrast details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/296",
+    "brand": "Label Edgy",
+    "price_range": "$80-$150",
+    "product_url": "https://shop.example.com/edgy-structured-bag-97"
+  },
+  {
+    "id": "item_098",
+    "item_name": "Feminine Sheer Shirt 98",
+    "category": "outerwear",
+    "color": "black",
+    "style_tags": [
+      "feminine",
+      "soft",
+      "pastel"
+    ],
+    "description": "A black outerwear with feminine cues, featuring pastel details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/297",
+    "brand": "Label Feminine",
+    "price_range": "$150-$300",
+    "product_url": "https://shop.example.com/feminine-sheer-shirt-98"
+  },
+  {
+    "id": "item_099",
+    "item_name": "Workwear Harness Belt 99",
+    "category": "shoe",
+    "color": "white",
+    "style_tags": [
+      "workwear",
+      "structured",
+      "taupe"
+    ],
+    "description": "A white shoe with workwear cues, featuring taupe details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/298",
+    "brand": "Label Workwear",
+    "price_range": "$300-$600",
+    "product_url": "https://shop.example.com/workwear-harness-belt-99"
+  },
+  {
+    "id": "item_100",
+    "item_name": "Avant-Garde Hooded Jacket 100",
+    "category": "accessory",
+    "color": "navy",
+    "style_tags": [
+      "avant-garde",
+      "architectural",
+      "monochrome"
+    ],
+    "description": "A navy accessory with avant-garde cues, featuring monochrome details for modern wardrobes.",
+    "image_url": "https://images.placeholder.com/299",
+    "brand": "Label Avant-Garde",
+    "price_range": "$40-$80",
+    "product_url": "https://shop.example.com/avant-garde-hooded-jacket-100"
+  }
+]
