@@ -4,10 +4,12 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
 
+# Load backend/.env before importing modules that instantiate services.
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(BASE_DIR, ".env"))
+
 from routes.api import api_bp
 from routes.health import health_bp
-
-load_dotenv()
 
 
 def create_app() -> Flask:
